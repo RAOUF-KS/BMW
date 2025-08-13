@@ -742,13 +742,13 @@ display: none;
 .text3{
   display: block;
   color: var(--primary-color);
- margin-left:-150em;
+ margin-left:-149em;
  padding: 0;
  margin-top: -9em;
 }
 
 .pr2{
-   padding: 10em 1em 10em 2em;
+   padding: 10em 1em 10em 1em;
    margin-left: 131em;
    font-size:medium;
    font-family: 'Roboto Slab';
