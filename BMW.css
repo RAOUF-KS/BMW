@@ -627,7 +627,7 @@ Video {
 
          .containerA button{
             margin-bottom: 2em;
-            margin-left: 2.8em;
+            margin-left: 2.4em;
          }
          
          .containerB{
@@ -645,7 +645,7 @@ Video {
 
          .containerB button{
             margin-bottom: 2em;
-            margin-left: 2.8em;
+            margin-left: 2.4em;
 
          }
          .containerC{
@@ -664,7 +664,7 @@ Video {
 
          .containerC button{
             margin-bottom: 2em;
-            margin-left: 2.8em;
+            margin-left: 2.4em;
 
          }
 
@@ -725,9 +725,8 @@ display: none;
 
 
              Video {
-  display: flexbox;
-  margin: 18em 5em 3em 5em; /* Ensures you scroll to see it */
-  
+  margin: 18em 0em 3em 0em; /* Ensures you scroll to see it */
+  width: 80%;
   /* Ensures you scroll to*/
              }
 
