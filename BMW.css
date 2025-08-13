@@ -725,8 +725,10 @@ display: none;
 
 
              Video {
-  margin: 18em 0em 3em 0em; /* Ensures you scroll to see it */
+  margin: 15em 6em 3em 6em; /* Ensures you scroll to see it */
   width: 80%;
+    height: 60vh;
+
   /* Ensures you scroll to*/
              }
 
@@ -747,7 +749,7 @@ display: none;
 }
 
 .pr2{
-   padding: 10em 0em 10em 0em;
+   padding: 10em 1em 10em 1em;
    margin-left: 131em;
    font-size:medium;
    font-family: 'Roboto Slab';
