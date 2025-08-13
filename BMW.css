@@ -725,7 +725,7 @@ display: none;
 
 
              Video {
-  margin: 15em 3.2em 3em 3.2em; /* Ensures you scroll to see it */
+  margin: 16em 3.2em 3em 3.2em; /* Ensures you scroll to see it */
   width: 80%;
     height: 60vh;
 
@@ -742,7 +742,7 @@ display: none;
 .text3{
   display: block;
   color: var(--primary-color);
- margin-left:-151em;
+ margin-left:-153em;
  padding: 0;
  margin-top: -9em;
 }
